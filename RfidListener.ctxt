@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RfidListener
+comment0.text=\r\n\ This\ RfidListener\ implements\ an\ interface\ between\ the\ python\ write\ and\ java.\r\n\ @author\ Sacredgamer\r\n
+comment1.params=
+comment1.target=RfidListener()
+comment2.params=
+comment2.target=void\ read()
+comment2.text=\r\n\ Start\ RFID\ reader\ and\ wait\ till\ tag\ is\ in\ range.\r\n\ \r\n\ @throws\ IOException\ \r\n\ If\ the\ Interface\ read\ file\ was\ not\ found\ or\ is\ not\ python.\r\n
+comment3.params=
+comment3.target=long\ getId()
+comment4.params=
+comment4.target=void\ handleScanner()
+comment5.params=
+comment5.target=boolean\ errorFeedBack()
+comment6.params=
+comment6.target=void\ cancel()
+comment7.params=
+comment7.target=void\ contentRead()
+numComments=8

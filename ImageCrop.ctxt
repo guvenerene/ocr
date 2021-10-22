@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ImageCrop
+comment1.params=directorySrc
+comment1.target=void\ ImageCrop(java.lang.String)
+comment1.text=\r\n\ Bu\ s\u0131n\u0131f\ kameradan\ \u00E7ekilerek\ kay\u0131t\ edilmi\u015F\ foto\u011Fraf\u0131n\ belirli\ koordinantlara\ g\u00F6re\ k\u0131rpma\ i\u015Flemini\ irca\ eder.\ \r\n\r\n\ @author\ guvenerene\r\n
+numComments=2

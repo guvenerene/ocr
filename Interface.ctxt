@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Interface
+comment0.text=\r\n\ This\ class\ provides\ the\ mapping\ between\ the\ python\ files.\r\n\r\n\ @author\ Sacredgamer\r\n
+comment1.params=readPath
+comment1.target=void\ init(java.lang.String)
+comment2.params=
+comment2.target=void\ clear()
+comment2.text=\r\n\ Kills\ all\ runnig\ read\ and\ write\ processes.\r\n\r\n\ @throws\ IOException\ If\ the\ Interface\ read\ file\ was\ not\ found\ or\ is\ not\r\n\ python.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getReadPath()
+numComments=4

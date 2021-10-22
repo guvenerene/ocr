@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RaspiStill
+comment1.params=name\ width\ height
+comment1.target=void\ PhotoTake(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Bu\ s\u0131n\u0131f\ kameradan\ foto\u011Fraf\ \u00E7ekme\ ve\ bu\ g\u00F6r\u00FCnt\u00FCy\u00FC\ kaydetme\ i\u015Flemlerini\ icra\ etmektedir.\r\n\r\n\ @author\ guvenerene\r\n
+numComments=2

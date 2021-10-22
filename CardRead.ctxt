@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CardRead
+comment1.params=
+comment1.target=void\ cardRead()
+comment1.text=\r\n\ Bu\ s\u0131n\u0131f\ RFID\ kart\u0131n\ ID\ bilgisini\ haf\u0131zada\ tutma\ i\u015Flemini\ icra\ eder.\r\n\r\n\ @author\ guvenerene\r\n
+comment2.params=
+comment2.target=java.lang.String\ getSaveSrc()
+comment3.params=
+comment3.target=void\ setSaveSrc()
+comment4.params=
+comment4.target=java.lang.String\ getReading()
+numComments=5

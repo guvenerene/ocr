@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DirectoryFolder
+comment1.params=
+comment1.target=void\ FolderCreator()
+comment1.text=\r\n\ Bu\ s\u0131n\u0131f\ dizin\ klas\u00F6r\u00FC\ ve\ anl\u0131k\ kay\u0131t\ i\u00E7in\ gerekli\ klas\u00F6rleri\ olu\u015Fturma\ g\u00F6revini\ icra\ eder.\r\n\r\n\ @author\ guvenerene\r\n
+comment2.params=reading
+comment2.target=void\ FolderRecord(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getFolderSrc()
+numComments=4

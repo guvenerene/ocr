@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CameraProcces
+comment1.params=kayitYolu\ damga
+comment1.target=void\ CameraProcces(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Bu\ s\u0131n\u0131f\ kameradan\ i\u015Flemlerini\ s\u0131ral\u0131\ bir\ \u015Fekilde\ icra\ etmek\ i\u00E7in\ tan\u0131mlanm\u0131\u015Ft\u0131r.\r\n\r\n\ @author\ guvenerene\r\n
+numComments=2
